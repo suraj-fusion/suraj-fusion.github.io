@@ -1,0 +1,36 @@
+.nortext{
+
+    width:500px;
+    margin:20px;
+    height:40px;
+    border-radius: 20px;
+    border:0.5px solid lightgrey;
+    background-color: transparent;
+    padding:15px;
+}
+
+.link >a{
+    text-decoration: none;
+    padding:5px;
+}
+
+.link{
+    text-align:right;
+}
+
+
+h3{
+    color:red;
+    margin: 20px;
+}
+
+#adv{
+    margin: 50px;
+}
+
+p>input[type=text]
+{
+    
+    width:400px;
+    margin:5px;
+}
